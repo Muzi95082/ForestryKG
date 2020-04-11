@@ -1,0 +1,1454 @@
+HudongItem1,relation,HudongItem2
+低,instance of,汉字
+密,sex or gender,男性
+林相,sex or gender,男性
+密,country of citizenship,中国
+竹林,instance of,姓氏
+天然林,subclass of,疏林
+健康,instance of,需要
+林相,country of citizenship,明朝
+耕地,use,耕作
+竹林,language of work or name,日语
+高,instance of,姓氏
+天然林,country,英国
+健康,instance of,商品
+林相,family name,林
+耕地,opposite of,放牧地
+高,writing system,汉字
+天然林,said to be the same as,原始森林
+大果圆柏,taxon rank,种
+算盘子,taxon rank,种
+高,different from,Gao
+健康,opposite of,疾病
+草地,different from,草原
+密,place of birth,北京市
+杜英,taxon rank,种
+紫檀,taxon rank,种
+香槐,taxon rank,种
+千斤拔,taxon rank,种
+密,place of death,北京市
+杜英,parent taxon,杜英属
+蚬木,taxon rank,种
+紫椴,taxon rank,种
+橄榄,subclass of,水果
+紫椴,parent taxon,椴树属
+银钩花,taxon rank,种
+橄榄,color,黑色
+黄杞,taxon rank,种
+枫杨,taxon rank,种
+红豆杉,taxon rank,种
+黄杞,parent taxon,黄杞属
+枫杨,parent taxon,枫杨属
+阿丁枫,taxon rank,种
+马蹄荷,taxon rank,种
+壳菜果,taxon rank,种
+盆架树,taxon rank,种
+海南狗牙花,taxon rank,种
+阿丁枫,parent taxon,蕈树属
+马蹄荷,parent taxon,马蹄荷属
+盆架树,parent taxon,盆架树属
+密,position held,军机大臣
+密,head of government,general
+密,ethnic group,满族
+欧松,sex or gender,男性
+雨林,subclass of,森林
+雅鲁藏布江,instance of,河流
+柃木,taxon rank,种
+雅鲁藏布江,mouth of the watercourse,恒河
+欧松,occupation,王
+闽江,instance of,河流
+钱塘江,instance of,河流
+珠江,instance of,河流
+淮河,instance of,河流
+汉江,instance of,河流
+柃木,parent taxon,柃属
+怒江,mouth of the watercourse,安达曼海
+澜沧江,origin of the watercourse,青藏高原
+闽江,mouth of the watercourse,东海
+钱塘江,instance of,溪
+珠江,mouth of the watercourse,南海
+淮河,mouth of the watercourse,洪泽湖
+汉江,mouth of the watercourse,长江
+雅鲁藏布江,country,中华人民共和国
+澜沧江,mouth of the watercourse,南海
+闽江,country,中华人民共和国
+钱塘江,mouth of the watercourse,杭州湾
+珠江,tributary,西江
+汉江,tributary,丹江
+闽江,located in the administrative territorial entity,福建省
+原鸽,taxon rank,种
+珠江,tributary,东江
+汉江,drainage basin,长江流域
+钱塘江,country,中华人民共和国
+珠江,tributary,流溪河
+汉江,continent,亚洲
+大杜鹃,taxon rank,种
+棕腹杜鹃,taxon rank,种
+鹰鹃,taxon rank,种
+红翅凤头鹃,taxon rank,种
+钱塘江,located in the administrative territorial entity,浙江省
+珠江,basin country,中华人民共和国
+汉江,country,中华人民共和国
+大杜鹃,parent taxon,杜鹃属
+珠江,country,中华人民共和国
+淮河,tributary,涡河
+汉江,located in the administrative territorial entity,陕西省
+珠江,located in the administrative territorial entity,贵州省
+淮河,lakes on river,洪泽湖
+怒江,continent,亚洲
+淮河,drainage basin,长江流域
+怒江,country,中华人民共和国
+澜沧江,tributary,蒙河
+淮河,basin country,中华人民共和国
+怒江,country,泰国
+淮河,country,中华人民共和国
+怒江,country,缅甸
+淮河,located in the administrative territorial entity,安徽省
+怒江,located in the administrative territorial entity,西藏自治区
+淮河,located in the administrative territorial entity,河南省
+淮河,located in the administrative territorial entity,江苏省
+伯劳科,taxon rank,科
+红尾伯劳,taxon rank,种
+太平鸟,taxon rank,种
+伯劳科,parent taxon,雀形目
+澜沧江,basin country,中华人民共和国
+伯劳科,Code of nomenclature,国际动物命名法规
+澜沧江,continent,亚洲
+澜沧江,country,中华人民共和国
+澜沧江,country,缅甸
+澜沧江,country,泰国
+澜沧江,country,老挝
+澜沧江,country,柬埔寨
+澜沧江,country,越南
+画眉,taxon rank,种
+白颊噪鹛,taxon rank,种
+细纹噪鹛,taxon rank,种
+燕雀,taxon rank,种
+雀科,taxon rank,科
+布氏田鼠,taxon rank,种
+麝鼠,taxon rank,种
+黄兔尾鼠,taxon rank,种
+中华鼢鼠,taxon rank,种
+长爪沙鼠,taxon rank,种
+大仓鼠,taxon rank,种
+黑线仓鼠,taxon rank,种
+中华鼢鼠,taxon synonym,中华鼢鼠
+针毛鼠,taxon rank,种
+黄毛鼠,taxon rank,种
+黄胸鼠,taxon rank,种
+黑线姬鼠,taxon rank,种
+大林姬鼠,taxon rank,种
+巢鼠,taxon rank,种
+鼠科,taxon rank,科
+大竹鼠,taxon rank,种
+猪尾鼠,taxon rank,种
+鼠科,parent taxon,鼠
+三趾跳鼠,taxon rank,种
+侧纹岩松鼠,taxon rank,种
+河狸科,taxon rank,属
+达乌尔黄鼠,taxon rank,种
+赤腹松鼠,taxon rank,种
+达乌尔鼠兔,taxon rank,种
+鼠兔科,taxon rank,属
+雪兔,taxon rank,种
+草兔,taxon rank,种
+兔科,taxon rank,科
+草兔,parent taxon,野兔
+兔科,parent taxon,兔形目
+盘羊,taxon rank,种
+岩羊,taxon rank,种
+塔尔羊,taxon rank,种
+斑羚,taxon rank,种
+鬣羚,taxon rank,种
+羚牛,taxon rank,种
+水鹿,taxon rank,种
+梅花鹿,taxon rank,种
+坡鹿,taxon rank,种
+麋鹿,taxon rank,种
+狍,taxon rank,属
+豚鹿,taxon rank,种
+毛冠鹿,taxon rank,种
+驼鹿,taxon rank,种
+黑麂,taxon rank,种
+小麂,taxon rank,种
+麂,taxon rank,属
+白唇鹿,taxon rank,种
+黑麂,parent taxon,麂
+小麂,parent taxon,麂
+林麝,taxon rank,种
+鹿科,taxon rank,科
+鼷鹿科,taxon rank,科
+骆驼科,taxon rank,科
+野猪,taxon rank,种
+猪科,taxon rank,科
+野猪,parent taxon,猪属
+猪科,parent taxon,猪形亚目
+野马,taxon rank,种
+鹿科,parent taxon,偶蹄目
+马科,subclass of,动物
+虎,subclass of,猫科
+豹,subclass of,哺乳动物
+云豹,taxon rank,种
+鼷鹿科,parent taxon,偶蹄目
+骆驼科,parent taxon,偶蹄目
+野马,parent taxon,马属
+马科,taxon rank,科
+雪豹,taxon rank,种
+虎,subclass of,哺乳动物
+豹,taxon rank,种
+马科,parent taxon,奇蹄目
+虎,taxon rank,种
+鹿科,this taxon is source of,鹿肉
+鼷鹿科,Code of nomenclature,国际动物命名法规
+骆驼科,Code of nomenclature,国际动物命名法规
+鹿科,use,鹿
+虎,main food source,猴
+马科,Code of nomenclature,国际动物命名法规
+虎,main food source,雉科
+虎,main food source,兔科
+虎,main food source,鱼
+虎,main food source,犬
+虎,main food source,坚果
+虎,main food source,草本植物
+虎,main food source,水果
+香鼬,taxon rank,种
+黄鼬,taxon rank,种
+紫貂,taxon rank,种
+貂熊,taxon rank,种
+石貂,taxon rank,种
+鼬科,taxon rank,科
+白鼬,taxon rank,种
+大熊猫,taxon rank,种
+大熊猫科,taxon rank,科
+浣熊科,taxon rank,科
+黑熊,sex or gender,男性
+棕熊,taxon rank,种
+熊科,taxon rank,科
+豺,taxon rank,种
+黑熊,country of citizenship,美国
+白鼬,main food source,穴兔
+藏狐,taxon rank,种
+沙狐,taxon rank,种
+赤狐,taxon rank,种
+犬科,taxon rank,科
+穿山甲,taxon rank,属
+白眉长臂猿,taxon rank,属
+藏狐,parent taxon,狐属
+沙狐,parent taxon,狐属
+赤狐,parent taxon,狐属
+狼,taxon rank,种
+白眉长臂猿,parent taxon,长臂猿
+熊科,use,熊
+鼬科,Code of nomenclature,国际动物命名法规
+大熊猫科,Code of nomenclature,国际动物命名法规
+黔金丝猴,taxon rank,种
+金丝猴,taxon rank,属
+短尾猴,taxon rank,种
+豚尾猴,taxon rank,种
+浣熊科,Code of nomenclature,国际动物命名法规
+黔金丝猴,parent taxon,金丝猴
+犬科,habitat,大陆
+穿山甲,different from,鳞甲目
+狼,main food source,穴兔
+赤狐,different from,狐
+狼,main food source,腐肉
+狼,main food source,驯鹿
+狼,main food source,鹿科
+熊猴,taxon rank,种
+猴科,taxon rank,科
+蜂猴,taxon rank,种
+树鼩,taxon rank,种
+狼,main food source,ibex
+狼,main food source,旅鼠
+猴科,Code of nomenclature,国际动物命名法规
+狼,main food source,田鼠
+狼,main food source,羊
+狼,main food source,家牛
+狼,main food source,犬
+大棕蝠,taxon rank,种
+普通蝙蝠,taxon rank,种
+狼,main food source,浆果
+狼,main food source,梨
+蝙蝠科,taxon rank,科
+狼,main food source,葡萄
+狼,main food source,禾草
+蝙蝠科,parent taxon,蝙蝠
+蝙蝠科,Code of nomenclature,国际动物命名法规
+狼,main food source,赤狐
+狼,main food source,海狸鼠
+狼,main food source,貉
+狼,main food source,鸟纲
+狼,main food source,鱼
+狐蝠科,taxon rank,科
+狐蝠科,parent taxon,蝙蝠
+短尾鼩,taxon rank,种
+大麝鼩,taxon rank,种
+狐蝠科,natural reservoir of,埃博拉病毒
+臭鼩,taxon rank,种
+刺猬,taxon rank,亚科
+雪鹀,taxon rank,种
+大耳猬,taxon rank,种
+锡嘴雀,taxon rank,种
+黑尾蜡嘴雀,taxon rank,种
+锡嘴雀,country of origin,阿尔及利亚
+黄雀,taxon rank,种
+麻雀,taxon rank,种
+文鸟科,taxon rank,科
+文鸟科,parent taxon,雀形目
+文鸟科,Code of nomenclature,国际动物命名法规
+太阳鸟科,taxon rank,科
+啄花鸟科,taxon rank,科
+太阳鸟科,parent taxon,雀形目
+啄花鸟科,Code of nomenclature,国际动物命名法规
+太阳鸟科,Code of nomenclature,国际动物命名法规
+攀雀科,taxon rank,科
+攀雀科,parent taxon,雀形目
+旋木雀,taxon rank,种
+褐头山雀,taxon rank,种
+沼泽山雀,taxon rank,种
+攀雀科,Code of nomenclature,国际动物命名法规
+煤山雀,taxon rank,种
+黄腹山雀,taxon rank,种
+旋木雀,main food source,无脊椎动物
+大山雀,taxon rank,种
+山雀科,taxon rank,科
+山雀科,main food source,昆虫
+山雀科,Code of nomenclature,国际动物命名法规
+棕头鸦雀,taxon rank,种
+杂色噪鹛,taxon rank,种
+棕颈钩嘴鹛,taxon rank,种
+鹪鹩,taxon rank,种
+鹪鹩科,taxon rank,科
+鹪鹩科,parent taxon,雀形目
+河乌科,taxon rank,属
+小嘴乌鸦,taxon rank,种
+大嘴乌鸦,taxon rank,种
+小嘴乌鸦,parent taxon,乌鸦
+大嘴乌鸦,parent taxon,乌鸦
+秃鼻乌鸦,taxon rank,种
+秃鼻乌鸦,parent taxon,乌鸦
+灰喜鹊,taxon rank,种
+红嘴蓝鹊,taxon rank,种
+松鸦,taxon rank,种
+鸦科,taxon rank,科
+鹩哥,taxon rank,种
+八哥,taxon rank,种
+灰椋鸟,taxon rank,种
+鸦科,Code of nomenclature,国际动物命名法规
+椋鸟科,taxon rank,科
+椋鸟科,parent taxon,雀形目
+灰卷尾,taxon rank,种
+卷尾科,taxon rank,科
+卷尾科,parent taxon,雀形目
+黄鹂科,taxon rank,科
+椋鸟科,Code of nomenclature,国际动物命名法规
+黄鹂科,parent taxon,雀形目
+卷尾科,Code of nomenclature,国际动物命名法规
+黄鹂科,Code of nomenclature,国际动物命名法规
+田鹨,taxon rank,种
+金腰燕,taxon rank,种
+岩燕,taxon rank,种
+燕科,taxon rank,科
+角百灵,taxon rank,种
+云雀,taxon rank,种
+燕科,parent taxon,雀形目
+百灵科,taxon rank,科
+燕科,Code of nomenclature,国际动物命名法规
+百灵科,Code of nomenclature,国际动物命名法规
+八色鸫科,taxon rank,科
+八色鸫科,parent taxon,雀形目
+长尾阔嘴鸟,taxon rank,种
+阔嘴鸟科,taxon rank,科
+八色鸫科,Code of nomenclature,国际动物命名法规
+棕腹啄木鸟,taxon rank,种
+黄颈啄木鸟,taxon rank,种
+阔嘴鸟科,Code of nomenclature,国际动物命名法规
+栗啄木鸟,taxon rank,种
+白喉犀鸟,taxon rank,种
+戴胜,taxon rank,种
+三宝鸟,taxon rank,种
+鸱鸮科,taxon rank,科
+草鸮科,taxon rank,科
+草鸮科,Code of nomenclature,国际动物命名法规
+小鸦鹃,taxon rank,种
+翠金鹃,taxon rank,种
+噪鹃,taxon rank,种
+紫金鹃,taxon rank,种
+杜鹃科,taxon rank,科
+乌鹃,taxon rank,种
+杜鹃科,parent taxon,鹃形目
+鹦鹉科,taxon rank,科
+火斑鸠,taxon rank,种
+灰斑鸠,taxon rank,种
+山斑鸠,taxon rank,种
+斑尾鹃鸠,taxon rank,种
+岩鸽,taxon rank,种
+山皇鸠,taxon rank,种
+黄脚绿鸠,taxon rank,种
+红翅绿鸠,taxon rank,种
+鸠鸽科,taxon rank,科
+鹦鹉科,Code of nomenclature,国际动物命名法规
+杜鹃科,Code of nomenclature,国际动物命名法规
+鸠鸽科,parent taxon,鸽形目
+鸠鸽科,Code of nomenclature,国际动物命名法规
+角嘴海雀,taxon rank,种
+海雀科,taxon rank,科
+沙鸡科,taxon rank,科
+乌燕鸥,taxon rank,种
+红嘴鸥,taxon rank,种
+海雀科,Code of nomenclature,国际动物命名法规
+海鸥,taxon rank,种
+黑尾鸥,taxon rank,种
+鸥科,taxon rank,科
+海鸥,parent taxon,鸥属
+黑尾鸥,parent taxon,鸥属
+燕鸻科,taxon rank,科
+燕鸻科,parent taxon,鸻形目
+贼鸥科,taxon rank,科
+贼鸥科,parent taxon,鸻形目
+燕鸻科,Code of nomenclature,国际动物命名法规
+红颈瓣蹼鹬,taxon rank,种
+贼鸥科,Code of nomenclature,国际动物命名法规
+大杓鹬,taxon rank,种
+鹬科,taxon rank,科
+鹤鹬,taxon rank,种
+小杓鹬,taxon rank,种
+鹬科,parent taxon,鸻形目
+环颈鸻,taxon rank,种
+灰头麦鸡,taxon rank,种
+鹬科,Code of nomenclature,国际动物命名法规
+鸻科,taxon rank,科
+彩鹬,taxon rank,种
+彩鹬科,taxon rank,科
+大鸨,taxon rank,种
+小鸨,taxon rank,种
+骨顶鸡,taxon rank,种
+鸻科,parent taxon,鸻形目
+彩鹬科,parent taxon,鸻形目
+大鸨,parent taxon,Otis
+彩鹬科,Code of nomenclature,国际动物命名法规
+黑水鸡,taxon rank,种
+红胸田鸡,taxon rank,种
+长脚秧鸡,taxon rank,种
+蓝胸秧鸡,taxon rank,种
+秧鸡科,taxon rank,科
+白鹤,taxon rank,种
+丹顶鹤,taxon rank,种
+秧鸡科,parent taxon,鹤形目
+白头鹤,taxon rank,种
+黑颈鹤,taxon rank,种
+蓑羽鹤,taxon rank,种
+赤颈鹤,taxon rank,种
+灰鹤,taxon rank,种
+鹤科,taxon rank,科
+黄脚三趾鹑,taxon rank,种
+三趾鹑科,taxon rank,科
+绿孔雀,taxon rank,种
+鹤科,parent taxon,鹤形目
+绿孔雀,parent taxon,孔雀
+鹤科,Code of nomenclature,国际动物命名法规
+三趾鹑科,Code of nomenclature,国际动物命名法规
+白冠长尾雉,taxon rank,种
+白腹锦鸡,taxon rank,种
+白颈长尾雉,taxon rank,种
+褐马鸡,taxon rank,种
+蓝马鸡,taxon rank,种
+雉鸡,taxon rank,种
+绿尾虹雉,taxon rank,种
+白鹇,taxon rank,种
+黑鹇,taxon rank,种
+蓝鹇,taxon rank,种
+棕尾虹雉,taxon rank,种
+黄腹角雉,taxon rank,种
+红腹角雉,taxon rank,种
+灰腹角雉,taxon rank,种
+红胸角雉,taxon rank,种
+血雉,taxon rank,种
+斑翅山鹑,taxon rank,种
+鹌鹑,taxon rank,种
+高原山鹑,taxon rank,种
+石鸡,taxon rank,种
+雉鹑,taxon rank,种
+雉科,taxon rank,科
+斑尾榛鸡,taxon rank,种
+雉科,parent taxon,鸡形目
+松鸡,taxon rank,种
+松鸡科,taxon rank,亚科
+灰背隼,taxon rank,种
+燕隼,taxon rank,种
+松鸡科,parent taxon,雉科
+游隼,taxon rank,种
+灰背隼,parent taxon,隼
+游隼,parent taxon,隼
+隼科,taxon rank,科
+白头鹞,taxon rank,种
+隼科,parent taxon,隼形目
+隼科,Code of nomenclature,国际动物命名法规
+雉科,Code of nomenclature,国际动物命名法规
+白尾鹞,taxon rank,种
+金雕,taxon rank,种
+鹰雕,taxon rank,种
+玉带海雕,taxon rank,种
+白肩雕,taxon rank,种
+雀鹰,taxon rank,种
+凤头鹰,taxon rank,种
+白尾海雕,taxon rank,种
+苍鹰,taxon rank,种
+鹰科,taxon rank,科
+中华秋沙鸭,taxon rank,种
+鹰科,parent taxon,隼形目
+鹰科,Code of nomenclature,国际动物命名法规
+长尾鸭,taxon rank,种
+鹊鸭,taxon rank,种
+红头潜鸭,taxon rank,种
+凤头潜鸭,taxon rank,种
+鸳鸯,taxon rank,种
+琵嘴鸭,taxon rank,种
+斑嘴鸭,taxon rank,种
+大天鹅,taxon rank,种
+大天鹅,parent taxon,Cygnus
+斑头雁,taxon rank,种
+灰雁,taxon rank,种
+小天鹅,taxon rank,种
+小天鹅,parent taxon,Cygnus
+鸿雁,taxon rank,种
+鸭科,taxon rank,科
+鸭科,parent taxon,雁形目
+黑鹳,taxon rank,种
+白鹳,taxon rank,种
+鹳科,taxon rank,科
+鹳科,parent taxon,鹳形目
+鹳科,Code of nomenclature,国际动物命名法规
+池鹭,taxon rank,种
+大白鹭,taxon rank,种
+白鹭,taxon rank,种
+牛背鹭,taxon rank,种
+鹭科,taxon rank,科
+苍鹭,taxon rank,种
+白斑军舰鸟,taxon rank,种
+鹭科,parent taxon,鹈形目
+军舰鸟科,taxon rank,属
+海鸬鹚,taxon rank,种
+鸬鹚科,taxon rank,属
+褐鲣鸟,taxon rank,种
+红脚鲣鸟,taxon rank,种
+军舰鸟科,parent taxon,军舰鸟
+鹭科,Code of nomenclature,国际动物命名法规
+鲣鸟科,taxon rank,科
+斑嘴鹈鹕,taxon rank,种
+白鹈鹕,taxon rank,种
+鹈鹕科,taxon rank,属
+鹲科,taxon rank,属
+海燕科,taxon rank,科
+斑嘴鹈鹕,parent taxon,鹈鹕
+白鹈鹕,parent taxon,鹈鹕
+海燕科,parent taxon,鹱形目
+鲣鸟科,parent taxon,鹈形目
+鲣鸟科,Code of nomenclature,国际动物命名法规
+海燕科,Code of nomenclature,国际动物命名法规
+鹱科,taxon rank,科
+信天翁科,taxon rank,科
+鹱科,parent taxon,鹱形目
+信天翁科,parent taxon,鹱形目
+海蝰,taxon rank,种
+尖吻蝮,taxon rank,种
+草原蝰,taxon rank,种
+蝰蛇,taxon rank,亚科
+鹱科,Code of nomenclature,国际动物命名法规
+信天翁科,Code of nomenclature,国际动物命名法规
+蝰蛇,different from,蛇
+白头蝰,taxon rank,种
+丽纹蛇,taxon rank,种
+极北蝰,taxon rank,种
+花条蛇,taxon rank,种
+黑斑水蛇,taxon rank,种
+眼镜王蛇,taxon rank,种
+紫沙蛇,taxon rank,种
+眼镜蛇科,taxon rank,科
+繁花林蛇,taxon rank,种
+绿瘦蛇,taxon rank,种
+乌梢蛇,taxon rank,种
+滑鼠蛇,taxon rank,种
+灰鼠蛇,taxon rank,种
+广西后棱蛇,taxon rank,种
+翠青蛇,taxon rank,种
+黑眉锦蛇,taxon rank,种
+红点锦蛇,taxon rank,种
+王锦蛇,taxon rank,种
+粉链蛇,taxon rank,种
+赤链蛇,taxon rank,种
+黄脊游蛇,taxon rank,种
+滇西蛇,taxon rank,种
+钝头蛇,taxon rank,种
+美姑脊蛇,taxon rank,种
+台湾脊蛇,taxon rank,种
+游蛇科,taxon rank,科
+鳄蜥,taxon rank,种
+大盲蛇,taxon rank,种
+大盲蛇,parent taxon,盲蛇
+雪山草蜥,taxon rank,种
+黑龙江草蜥,taxon rank,种
+游蛇科,Code of nomenclature,国际动物命名法规
+粗疣壁虎,taxon rank,种
+大壁虎,taxon rank,种
+壁虎,taxon rank,科
+壁虎科,taxon rank,亚科
+西藏沙蜥,taxon rank,种
+南疆沙蜥,taxon rank,种
+白条沙蜥,taxon rank,种
+蜡皮蜥,taxon rank,种
+丽棘蜥,taxon rank,种
+鬣蜥科,taxon rank,科
+山瑞鳖,taxon rank,种
+鳖,taxon rank,科
+鼋,taxon rank,种
+棱皮龟科,taxon rank,科
+玳瑁,taxon rank,种
+陆龟科,taxon rank,科
+鳖,Code of nomenclature,国际动物命名法规
+花龟,taxon rank,种
+大头乌龟,taxon rank,种
+棱皮龟科,Code of nomenclature,国际动物命名法规
+乌龟,country of origin,大韩民国
+陆龟科,Code of nomenclature,国际动物命名法规
+平胸龟,taxon rank,种
+鬣蜥科,Code of nomenclature,国际动物命名法规
+饰纹姬蛙,taxon rank,种
+武夷湍蛙,taxon rank,种
+崇安湍蛙,taxon rank,种
+泽蛙,taxon rank,种
+隆肛蛙,taxon rank,种
+日本林蛙,taxon rank,种
+蛙科,taxon rank,科
+蛙科,parent taxon,无尾目
+华西雨蛙,taxon rank,种
+中国雨蛙,taxon rank,种
+雨蛙科,taxon rank,科
+雨蛙科,parent taxon,无尾目
+黑眶蟾蜍,taxon rank,种
+花背蟾蜍,taxon rank,种
+崇安髭蟾,taxon rank,种
+小地老虎,taxon rank,种
+夜蛾科,taxon rank,科
+舟蛾科,taxon rank,科
+灯蛾科,taxon rank,科
+霜天蛾,taxon rank,种
+绒星天蛾,taxon rank,种
+天蛾科,taxon rank,科
+尺蛾科,taxon rank,科
+草地螟,taxon rank,种
+家蚕,taxon rank,种
+桃蛀螟,taxon rank,种
+螟蛾科,taxon rank,科
+斑蛾科,taxon rank,科
+刺蛾科,taxon rank,科
+鞘蛾科,taxon rank,科
+细蛾科,taxon rank,科
+蝙蝠蛾科,taxon rank,科
+家蚕,this taxon is source of,丝绸
+花蝇科,taxon rank,科
+地中海实蝇,taxon rank,种
+实蝇科,taxon rank,科
+绿豆象,taxon rank,亚科
+星天牛,taxon rank,种
+天牛科,taxon rank,科
+萤科,taxon rank,科
+锹甲科,taxon rank,科
+盾蝽科,taxon rank,科
+盲蝽科,taxon rank,科
+荔蝽,taxon rank,种
+茶翅蝽,taxon rank,种
+蝽科,taxon rank,科
+粉蚧科,taxon rank,科
+梨二叉蚜,taxon rank,种
+玉米蚜,taxon rank,种
+桃蚜,taxon rank,种
+枝,instance of,汉字
+豆蚜,taxon rank,种
+蚜科,taxon rank,科
+粉虱科,taxon rank,科
+同翅目,taxon rank,目
+黑翅土白蚁,taxon rank,种
+蝽科,main food source,幼虫
+豆蚜,parent taxon,Aphis
+蚜科,parent taxon,蚜虫
+面积,instance of,标量
+蜚蠊科,taxon rank,科
+德国小蠊,taxon rank,种
+蝗科,taxon rank,科
+直翅目,taxon rank,目
+粉虱科,parent taxon,半翅目
+水泵,subclass of,工具
+面积,subclass of,物理量
+科,part of,亚目
+德国小蠊,habitat,地球
+水泵,subclass of,机械
+科,part of,目
+自然保护区,subclass of,保护区
+仓库,subclass of,数据库
+类型,subclass of,数据结构
+科,part of,order
+职业,language of work or name,汉语
+年龄,instance of,部分
+坡度,subclass of,物理量
+科,part of,group
+职业,published in,城市规划
+海拔,subclass of,高度
+降水量,subclass of,物理量
+结构,subclass of,实体
+年龄,subclass of,物理量
+降水量,facet of,降水
+性质,instance of,范畴
+数量,has parts of the class,势
+起源,instance of,文学作品
+颜色,instance of,物理性质
+可燃物,subclass of,化学物质
+性质,subclass of,实体
+数量,different from,量值
+颜色,instance of,材料
+天气,part of,大气层
+性质,studied by,材料科学
+类型,said to be the same as,type
+数量,said to be the same as,量值
+年龄,measured by,岁
+姓名,has part,姓氏
+海拔,different from,相对高度
+刨花板,subclass of,纤维板
+纤维板,subclass of,人造板
+人造板,subclass of,木材
+胶合板,subclass of,人造板
+天气,studied by,气象学
+结构,different from,结构
+军队,different from,陆军
+姓名,has part,名字
+海拔,different from,高度
+胶合板,subclass of,复合材料
+铁杉,taxon rank,种
+樟子松,taxon rank,变种
+数量,facet of,量度
+海拔,different from,位势高度
+起源,country of origin,美国
+广州管圆线虫病,instance of,疾病
+天气,has quality,量值
+起源,language of work or name,英语
+起源,narrative location,马德里
+广州管圆线虫病,subclass of,脑膜炎
+可燃物,has parts of the class,还原剂
+颜色,has part,原色
+狂犬病,instance of,疾病
+牛痘,instance of,疾病
+猴痘,instance of,疾病
+口蹄疫,has cause,感染
+黄热病,instance of,疾病
+流行性乙型脑炎,instance of,疾病
+猫传染性腹膜炎,subclass of,腹膜炎
+白喉,instance of,疾病
+猪瘟,taxon rank,种
+破伤风,instance of,疾病
+猴痘,has cause,感染
+牛痘,has cause,感染
+狂犬病,has cause,狂犬病病毒
+公园,subclass of,地理位置
+狂犬病,has effect,脑炎
+宾馆,subclass of,企业
+博物馆,subclass of,位置
+体育馆,use,体育
+狂犬病,has effect,脊髓炎
+白喉,drug used for treatment,苄青霉素
+黄热病,symptoms,发热
+流行性乙型脑炎,symptoms,发热
+博物馆,interested in,preservation
+狂犬病,symptoms,幻觉
+破伤风,drug used for treatment,氯丙嗪
+黄热病,symptoms,呕吐
+流行性乙型脑炎,symptoms,呕吐
+图书馆,different from,library
+交通,subclass of,物流
+温泉,subclass of,泉
+泥,instance of,混合物
+矿泉,subclass of,泉
+温泉,has quality,温度
+石,instance of,姓氏
+泥,instance of,建筑材料
+矿泉,subclass of,水
+咸水湖,subclass of,湖泊
+淡水湖,country,中华人民共和国
+水系,part of,流域
+石,language of work or name,汉语
+沙,subclass of,沉积岩
+气,studied by,中国哲学
+码头,subclass of,建设
+垭口,country,中华人民共和国
+花房,instance of,陵墓
+水车,subclass of,研磨
+风车,subclass of,研磨
+长城,country,中华人民共和国
+石,writing system,汉字
+气,opposite of,理
+垭口,located in the administrative territorial entity,河南省
+花房,country,塞尔维亚
+水车,product or material produced,水力资源
+风车,subclass of,机械
+长城,located in the administrative territorial entity,辽宁省
+花房,located in the administrative territorial entity,贝尔格莱德
+风车,use,能量
+长城,located in the administrative territorial entity,吉林省
+码头,subclass of,大街
+盐场,country,中华人民共和国
+林场,country,中华人民共和国
+火山口,subclass of,地形
+长城,located in the administrative territorial entity,河北省
+盐场,located in the administrative territorial entity,射阳县
+溶洞,subclass of,洞穴
+岩溶地貌,subclass of,景观
+长城,located in the administrative territorial entity,北京市
+石,different from,尸
+沙丘,subclass of,丘
+孤峰,sex or gender,男性
+冰川,material used,冰
+长城,located in the administrative territorial entity,天津市
+石,said to be the same as,施
+孤峰,country of citizenship,元朝
+冰川,studied by,冰川学
+长城,located in the administrative territorial entity,山西省
+长城,located in the administrative territorial entity,内蒙古自治区
+长城,located in the administrative territorial entity,陕西省
+石,said to be the same as,时
+长城,located in the administrative territorial entity,宁夏回族自治区
+石,said to be the same as,释
+长城,located in the administrative territorial entity,甘肃省
+石,said to be the same as,史
+长城,located in the administrative territorial entity,新疆维吾尔自治区
+石,said to be the same as,士
+国界,different from,境界
+长城,located in the administrative territorial entity,山东省
+国界,different from,边界
+长城,located in the administrative territorial entity,河南省
+长城,located in the administrative territorial entity,湖北省
+石,said to be the same as,Sa
+长城,located in the administrative territorial entity,湖南省
+长城,located in the administrative territorial entity,四川省
+长城,located in the administrative territorial entity,青海省
+水库,subclass of,人工湖
+防波堤,subclass of,建设
+长城,located in the administrative territorial entity,中华人民共和国
+溢洪道,part of,水坝
+河流,part of,水系
+堤岸,subclass of,建设
+长城,material used,石灰岩
+栅栏,subclass of,城墙
+浮标,instance of,航标
+灯塔,subclass of,航标
+堤岸,subclass of,栈桥
+池塘,subclass of,湖泊
+路堤,subclass of,大街
+小路,instance of,姓氏
+堤岸,part of,港口
+隧道,subclass of,孔洞
+涵洞,part of,路堤
+小路,language of work or name,日语
+灯塔,subclass of,航标
+涵洞,part of,水坝
+灯塔,subclass of,建筑物
+路堤,different from,桥
+高速公路,subclass of,公路
+公路,subclass of,道路
+加油站,topic's main category,加油站
+医院,subclass of,制度
+小路,said to be the same as,小池
+清真寺,religion,伊斯兰教
+纪念碑,subclass of,文化遗产
+古塔,country,乌克兰
+首都,subclass of,城市
+河流,has part,水
+起重机,country,法国
+窑,subclass of,烘箱
+油库,has quality,石油
+变电站,subclass of,装置
+首都,opposite of,古都
+菜窖,has quality,冷
+教堂,religion,基督教
+起重机,item operated,吊钩
+窑,part of,陶器
+蒙古包,subclass of,住宅
+学校,has part,教师
+河流,different from,水道
+林区,country,中华人民共和国
+气象站,facet of,气象学
+河流,model item,亚马逊河
+教堂,different from,教会
+河流,model item,长江
+首都,model item,巴西利亚
+河流,model item,泰晤士河
+河流,model item,刚果河
+起重机,has part,驾驶舱
+河流,model item,密西西比河
+白桦林,sex or gender,男性
+白桦林,country of citizenship,中华人民共和国
+灌木林,subclass of,多年生植物
+水生植被,instance of,生活型
+灌木林,subclass of,木本植物
+水生植被,subclass of,植物
+草甸,subclass of,草原
+荒漠,subclass of,景观
+水土流失,has cause,降水
+偃柏,taxon rank,变种
+毛麻楝,taxon rank,变种
+灌木林,has parts of the class,茎
+川楝,taxon rank,种
+割舌树,taxon rank,种
+鸦胆子,taxon rank,种
+灌木林,different from,树
+斑鸠菊,taxon rank,种
+红桦,taxon rank,种
+白桦,taxon rank,种
+黑桦,taxon rank,种
+枫桦,taxon rank,种
+桤木,taxon rank,种
+草甸,different from,大草原
+白桦,parent taxon,桦木属
+黑桦,parent taxon,桦木属
+枫桦,parent taxon,桦木属
+桤木,parent taxon,桤木属
+黑荆,taxon rank,种
+金合欢,taxon rank,属
+儿茶,taxon rank,种
+楹树,taxon rank,种
+黑荆,parent taxon,金合欢
+黑格,instance of,姓氏
+儿茶,parent taxon,金合欢
+楹树,parent taxon,合欢属
+黑格,language of work or name,英语
+合欢,taxon rank,种
+海红豆,taxon rank,种
+八宝树,taxon rank,种
+黑格,writing system,拉丁文字
+合欢,parent taxon,合欢属
+合欢,parent taxon,金合欢
+蓝果树,taxon rank,种
+喜树,taxon rank,种
+山蕉,taxon rank,种
+依兰,taxon rank,种
+喜树,parent taxon,喜树属
+依兰,parent taxon,依兰属
+花榈木,taxon rank,种
+花榈木,parent taxon,红豆属
+银柴,taxon rank,种
+秋枫,taxon rank,种
+重阳木,taxon rank,种
+槐树,taxon rank,种
+黄檀,taxon rank,种
+黑黄檀,taxon rank,种
+银柴,parent taxon,银柴属
+槐树,parent taxon,槐属
+余甘子,taxon rank,种
+刺槐,taxon rank,种
+叶轮木,taxon rank,种
+粗糠柴,taxon rank,种
+白背叶,taxon rank,种
+槐树,basionym,五叶槐
+刺槐,parent taxon,刺槐属
+粗糠柴,parent taxon,野桐属
+白背叶,parent taxon,野桐属
+刺槐,inflorescence,总状花序
+中平树,taxon rank,种
+刺槐,this taxon is source of,Robinia
+山麻杆,taxon rank,种
+木奶果,taxon rank,种
+棒柄花,taxon rank,种
+越南巴豆,taxon rank,种
+越南巴豆,parent taxon,巴豆属
+油茶,taxon rank,种
+北美乔柏,taxon rank,种
+北美香柏,taxon rank,种
+罗汉柏,taxon rank,种
+油茶,parent taxon,山茶属
+油茶,has fruit type,蒴果
+昆明柏,taxon rank,种
+叉子圆柏,taxon rank,种
+昆明柏,parent taxon,圆柏属
+塔柏,instance of,栽培品种
+塔柏,taxon rank,栽培品种
+北美圆柏,taxon rank,种
+西伯利亚刺柏,taxon rank,变种
+杜松,family name,杜
+刺柏,taxon rank,种
+线柏,instance of,栽培品种
+北美圆柏,parent taxon,圆柏属
+西伯利亚刺柏,parent taxon,刺柏
+线柏,taxon rank,栽培品种
+美国扁柏,taxon rank,种
+日本扁柏,taxon rank,种
+巨柏,taxon rank,种
+岷江柏木,taxon rank,种
+柏木,instance of,姓氏
+线柏,parent taxon,日本花柏
+巨柏,parent taxon,柏木属
+岷江柏木,parent taxon,柏木属
+柏木,language of work or name,日语
+丝兰,taxon rank,种
+丝兰,parent taxon,丝兰属
+柏木,different from,柏木
+赤杨叶,taxon rank,种
+柏木,said to be the same as,柏木
+聚果榕,taxon rank,种
+柏木,said to be the same as,柏木
+高山榕,taxon rank,种
+柏木,said to be the same as,柏木
+柏木,said to be the same as,柏木
+柏木,said to be the same as,柏木
+柏木,said to be the same as,柏木
+白木香,taxon rank,种
+白桂木,taxon rank,种
+三尖杉,taxon rank,种
+三尖杉,parent taxon,三尖杉属
+琴叶风吹楠,taxon rank,种
+琴叶风吹楠,parent taxon,风吹楠属
+黄果茄,subclass of,蔬菜
+臀果木,taxon rank,种
+黄果茄,taxon rank,种
+豆梨,taxon rank,种
+豆梨,parent taxon,梨
+国花,subclass of,花
+山石榴,taxon rank,种
+大叶钩藤,taxon rank,种
+荨麻,taxon rank,属
+腰果,taxon rank,种
+荨麻,parent taxon,荨麻科
+盐肤木,taxon rank,种
+南酸枣,taxon rank,种
+扁桃,taxon rank,种
+清香木,taxon rank,种
+腰果,has fruit type,坚果
+盐肤木,parent taxon,盐肤木属
+南酸枣,parent taxon,南酸枣属
+扁桃,parent taxon,李属
+樟叶槭,taxon rank,种
+茶条槭,taxon rank,种
+三角枫,taxon rank,种
+飞蛾槭,taxon rank,种
+樟叶槭,parent taxon,枫属
+茶条槭,parent taxon,枫属
+三角枫,parent taxon,枫属
+飞蛾槭,parent taxon,枫属
+木犀,taxon rank,种
+李榄,taxon rank,种
+水曲柳,taxon rank,种
+茶条槭,has fruit type,翅果
+扁桃,has fruit type,核果
+暴马丁香,parent taxon,北京丁香
+水曲柳,parent taxon,梣树
+三角枫,has fruit type,翅果
+光蜡树,taxon rank,种
+木棉,taxon rank,种
+木麻黄,taxon rank,种
+山桂花,taxon rank,种
+木莲,taxon rank,种
+海南木莲,taxon rank,种
+水曲柳,has fruit type,翅果
+光蜡树,parent taxon,梣树
+木棉,parent taxon,木棉属
+木麻黄,parent taxon,木麻黄属
+海南木莲,parent taxon,木莲属
+厚朴,taxon rank,种
+紫玉兰,taxon rank,种
+日本厚朴,taxon rank,种
+玉兰,taxon rank,种
+凹叶厚朴,parent taxon,厚朴
+荷花玉兰,taxon rank,种
+合果木,taxon rank,种
+北美鹅掌楸,taxon rank,种
+紫玉兰,has fruit type,蓇葖果
+日本厚朴,has fruit type,蓇葖果
+玉兰,has fruit type,蓇葖果
+北美鹅掌楸,parent taxon,鹅掌楸属
+荷花玉兰,has fruit type,蓇葖果
+北美鹅掌楸,has fruit type,翅果
+臭牡丹,taxon rank,种
+云南石梓,taxon rank,种
+竹柏,taxon rank,种
+云南石梓,parent taxon,石梓属
+山牡荆,taxon rank,种
+陆均松,taxon rank,种
+版纳青梅,taxon rank,种
+山牡荆,parent taxon,牡荆属
+坡垒,taxon rank,种
+望天树,taxon rank,种
+梓树,taxon rank,种
+滇楸,taxon rank,变型
+楸树,taxon rank,种
+陆均松,parent taxon,陆均松属
+版纳青梅,parent taxon,青梅属
+坡垒,parent taxon,坡垒属
+望天树,parent taxon,柳安属
+梓树,parent taxon,梓木
+滇楸,parent taxon,灰楸
+楸树,parent taxon,梓木
+香椿,taxon rank,种
+红椿,taxon rank,种
+高山松,taxon rank,种
+辐射松,taxon rank,种
+大果松,taxon rank,种
+刺果松,taxon rank,种
+赤松,taxon rank,种
+长叶松,taxon rank,种
+长白松,taxon rank,变种
+北美乔松,taxon rank,种
+白皮松,taxon rank,种
+怒江红杉,taxon rank,种
+四川红杉,taxon rank,种
+落叶松,taxon rank,种
+欧洲落叶松,taxon rank,种
+红杉,taxon rank,种
+怒江红杉,parent taxon,落叶松属
+四川红杉,parent taxon,落叶松属
+落叶松,parent taxon,落叶松属
+太白红杉,taxon rank,变种
+欧洲落叶松,parent taxon,落叶松属
+红杉,parent taxon,落叶松属
+日本落叶松,taxon rank,种
+黄花落叶松,taxon rank,种
+新疆落叶松,taxon rank,种
+太白红杉,parent taxon,红杉
+华北落叶松,taxon rank,种
+西藏冷杉,taxon rank,种
+紫果冷杉,taxon rank,种
+长苞冷杉,taxon rank,种
+日本落叶松,parent taxon,落叶松属
+黄花落叶松,parent taxon,落叶松属
+新疆落叶松,parent taxon,落叶松属
+华北落叶松,parent taxon,落叶松属
+西藏冷杉,parent taxon,冷杉属
+紫果冷杉,parent taxon,冷杉属
+长苞冷杉,parent taxon,冷杉属
+柿,taxon rank,属
+柿,parent taxon,柿树科
+阔叶风车子,taxon rank,种
+秃杉,taxon rank,种
+柿,has fruit type,浆果
+水松,taxon rank,种
+金松,sex or gender,女性
+北美红杉,taxon rank,种
+水杉,taxon rank,种
+台湾杉木,taxon rank,种
+落羽杉,taxon rank,种
+柿,this taxon is source of,柿
+水松,parent taxon,水松
+巨杉,taxon rank,种
+金松,country of citizenship,清朝
+北美红杉,parent taxon,Sequoia
+水杉,parent taxon,水杉属
+台湾杉木,parent taxon,杉木属
+金松,family name,金
+池杉,taxon rank,种
+日本柳杉,taxon rank,种
+灯台树,taxon rank,种
+水青冈,taxon rank,种
+石栎,taxon rank,种
+水青冈,parent taxon,水青冈属
+滇青冈,taxon rank,种
+竹叶青冈,taxon rank,种
+巨杉,endemic to,加利福尼亚州
+锥栗,taxon rank,种
+板栗,taxon rank,种
+槲栎,taxon rank,种
+栓皮栎,taxon rank,种
+蒙古栎,taxon rank,种
+白栎,taxon rank,种
+锥栗,parent taxon,栗
+板栗,parent taxon,栗
+槲栎,parent taxon,栎属
+栓皮栎,parent taxon,栎属
+蒙古栎,parent taxon,栎属
+白栎,parent taxon,栎属
+槲栎,endemic to,日本
+槲栎,endemic to,朝鲜
+槲栎,endemic to,中华人民共和国
+肉实树,taxon rank,种
+木荷,taxon rank,种
+茶梨,taxon rank,种
+斜叶榕,taxon rank,种
+个人,subclass of,物件
+退耕还林,country,中华人民共和国
+茶梨,parent taxon,茶梨属
+个人,subclass of,agent
+皆伐,subclass of,林业
+戈壁,instance of,犬
+皆伐,subclass of,伐木
+戈壁,sex or gender,雌性
+个人,subclass of,个体
+石灰岩,subclass of,沉积岩
+片岩,subclass of,变质岩
+强度,subclass of,物理量
+施肥,use,肥料
+石灰岩,subclass of,材料
+页岩,subclass of,碎屑岩
+国家,has part,公民
+干,instance of,姓氏
+石灰岩,material used,方解石
+板岩,subclass of,建筑材料
+国家,has part,领土
+壤土,subclass of,材料
+潮,sex or gender,男性
+沼,instance of,汉字
+石灰岩,material used,霰石
+板岩,subclass of,变质岩
+页岩,different from,板岩
+茶,has part,鞣质
+砂岩,subclass of,沉积岩
+花岗岩,material used,石英
+潮,country of citizenship,唐朝
+干,writing system,汉字
+片岩,different from,页岩
+页岩,different from,片岩
+中性,country of origin,美国
+国家,different from,国家
+茶,has part,水
+壤土,has part,沙
+花岗岩,material used,斜长石
+潮,family name,李
+片岩,different from,板岩
+中性,language of work or name,英语
+个人,has quality,年龄
+国家,said to be the same as,国家
+茶,has part,咖啡因
+壤土,has part,淤泥
+潮,father,李嵩
+沼,radical,水部
+板岩,different from,页岩
+中性,narrative location,底特律
+茶,different from,草本茶
+花岗岩,material used,云母
+板岩,different from,片岩
+个人,has quality,名字
+国家,model item,德国
+花岗岩,material used,钍
+个人,has quality,姓氏
+花岗岩,has quality,放射性
+个人,opposite of,社会
+粘土,has part,水
+粘土,has part,色素
+陡坡,subclass of,地形
+平原,instance of,景观
+平原,subclass of,地形
+高山,instance of,姓氏
+高山,language of work or name,日语
+丘陵,instance of,定义
+II,instance of,素数
+中山,sex or gender,男性
+丘陵,subclass of,景观
+盐田,subclass of,人工湖
+珊瑚礁,subclass of,暗礁
+稻田,subclass of,旱田
+中山,country of citizenship,清朝
+北坡,sex or gender,男性
+西坡,sex or gender,男性
+盐田,product or material produced,食盐
+高山,different from,高山
+中山,family name,孙
+北坡,country of citizenship,明朝
+西坡,country of citizenship,明朝
+IV,instance of,自然数
+北坡,family name,馀
+西坡,family name,陈
+黑土,subclass of,土壤
+火山灰土,subclass of,火山地貌
+中山,place of death,北京市
+土壤,part of,土壤圈
+银桦,taxon rank,种
+麻栎,taxon rank,种
+栲,taxon rank,种
+苦槠,taxon rank,种
+新疆冷杉,taxon rank,种
+II,instance of,自然数
+中山,cause of death,肝癌
+IV,instance of,偶数
+银桦,parent taxon,银桦属
+麻栎,parent taxon,栎属
+新疆冷杉,parent taxon,冷杉属
+土壤,studied by,土壤学
+II,instance of,偶数
+中山,place of burial,中山陵
+银桦,endemic to,澳大利亚
+土壤,has quality,土壤肥力
+IV,prime factor,2
+土壤,opposite of,岩石
+II,used by,平方
+中山,languages spoken written or signed,英语
+大叶紫珠,taxon rank,种
+长叶紫珠,taxon rank,种
+买麻藤,taxon rank,种
+紫珠,taxon rank,种
+石梓,taxon rank,种
+马尾树,taxon rank,种
+II,different from,2年
+中山,languages spoken written or signed,汉语
+大叶紫珠,parent taxon,紫珠属
+长叶紫珠,parent taxon,紫珠属
+紫珠,parent taxon,紫珠属
+石梓,parent taxon,石梓属
+中山,writing language,英语
+泡花树,taxon rank,种
+箭毒木,taxon rank,种
+假鹊肾树,taxon rank,种
+土壤,different from,地球
+II,prime factor,2
+细基丸,taxon rank,种
+肉豆蔻,subclass of,香辛料
+中山,occupation,医生
+中山,occupation,哲学家
+中山,employer,南京大学
+岷江,instance of,河流
+乌苏里江,instance of,河流
+嘉陵江,instance of,河流
+海河流域,instance of,河流
+乌江,instance of,河流
+长江流域,instance of,流域
+岷江,mouth of the watercourse,长江
+乌苏里江,mouth of the watercourse,黑龙江
+嘉陵江,mouth of the watercourse,长江
+海河流域,mouth of the watercourse,渤海
+乌江,mouth of the watercourse,长江
+辽河,instance of,河流
+长江流域,part of,长江
+岷江,tributary,大渡河
+境界,subclass of,边界
+海河流域,tributary,永定河
+辽河,mouth of the watercourse,黄海
+长江流域,continent,亚洲
+中山,work location,香港
+石滩,country,中华人民共和国
+暗礁,subclass of,景观
+嘉陵江,tributary,涪江
+海河流域,tributary,子牙河
+辽河,tributary,浑河
+长江流域,country,中华人民共和国
+石滩,located in the administrative territorial entity,四川省
+境界,part of,国家
+瀑布,part of,水道
+嘉陵江,tributary,白龙江
+海河流域,tributary,卫河
+辽河,tributary,西辽河
+岷江,drainage basin,长江流域
+海岸线,different from,岸
+海河流域,tributary,北运河
+辽河,tributary,东辽河
+岷江,country,中华人民共和国
+山谷冰川,subclass of,过程
+城墙,subclass of,墙
+大桥,sex or gender,女性
+瀑布,has quality,高度
+海河流域,tributary,温榆河
+辽河,tributary,太子河
+中山,military rank,大元帅
+岷江,located in the administrative territorial entity,四川省
+石环,country,中华人民共和国
+泉,studied by,水文地质学
+境界,different from,边界
+嘉陵江,tributary,白水江
+海河流域,tributary,潮白河
+辽河,country,中华人民共和国
+中山,conflict,辛亥革命
+城墙,part of,要塞
+石环,located in the administrative territorial entity,香港
+瀑布,manifestation of,地貌学
+嘉陵江,drainage basin,长江流域
+海河流域,continent,亚洲
+辽河,located in the administrative territorial entity,吉林省
+嘉陵江,country,中华人民共和国
+海河流域,country,中华人民共和国
+海河流域,located in the administrative territorial entity,河北省
+乌江,tributary,猫跳河
+海河流域,located in the administrative territorial entity,河南省
+瀑布,has part,水
+海河流域,located in the administrative territorial entity,山西省
+瀑布,has part,悬崖
+海河流域,located in the administrative territorial entity,山东省
+海河流域,located in the administrative territorial entity,内蒙古自治区
+乌苏里江,basin country,俄罗斯
+乌苏里江,continent,亚洲
+乌苏里江,country,俄罗斯
+乌江,tributary,湘江
+乌苏里江,country,中华人民共和国
+乌江,drainage basin,长江流域
+乌江,continent,亚洲
+乌江,country,中华人民共和国
+乌江,located in the administrative territorial entity,贵州省
+盘舌蟾科,taxon rank,科
+马尾松,taxon rank,种
+乌江,located in the administrative territorial entity,重庆市
+黑龙江林蛙,taxon rank,种
+中国林蛙,taxon rank,种
+姬蛙科,taxon rank,科
+中国林蛙,named after,陕西省
+姬蛙科,parent taxon,无尾目
+麝鼹,taxon rank,种
+大蹄蝠,taxon rank,种
+艾鼬,taxon rank,种
+小灵猫,taxon rank,种
+狗獾,taxon rank,种
+灵猫科,taxon rank,科
+食蟹獴,taxon rank,种
+熊狸,taxon rank,种
+果子狸,taxon rank,种
+猫科,taxon rank,科
+野牛,taxon rank,种
+驯鹿,taxon rank,种
+野牛,parent taxon,牛属
+蓝胸佛法僧,taxon rank,种
+灰林鸮,taxon rank,种
+长尾林鸮,taxon rank,种
+雪鸮,taxon rank,种
+短耳鸮,taxon rank,种
+长耳鸮,taxon rank,种
+短耳鸮,parent taxon,Asio
+长耳鸮,parent taxon,Asio
+猴耳环,taxon rank,种
+山楝,taxon rank,种
+大叶山楝,taxon rank,种
+翠柏,taxon rank,种
+乌榄,taxon rank,种
+山楝,parent taxon,山楝属
+大叶山楝,parent taxon,山楝属
+翠柏,parent taxon,翠柏属
+乌榄,parent taxon,橄榄属
+短耳鸮,habitat,地球
+猴耳环,taxon synonym,猴耳环
+跳鼠科,taxon rank,科
+林跳鼠,taxon rank,种
+黄羊,taxon rank,种
+五趾跳鼠,taxon rank,种
+跳鼠科,Code of nomenclature,国际动物命名法规
+石林,sex or gender,男性
+石林,country of citizenship,宋朝
+嫩江,instance of,河流
+石林,family name,李
+嫩江,mouth of the watercourse,松花江
+火山地貌,subclass of,地形
+第二松花江,instance of,河流
+泥石流,subclass of,山崩
+流域,instance of,概念
+嫩江,tributary,洮儿河
+第二松花江,mouth of the watercourse,松花江
+泥石流,material used,泥
+滑坡,subclass of,slide
+嫩江,tributary,绰尔河
+重,instance of,姓氏
+杉松,taxon rank,种
+柚木,taxon rank,种
+岷江冷杉,taxon rank,种
+臭冷杉,taxon rank,种
+第二松花江,country,中华人民共和国
+滑坡,has cause,地震
+嫩江,tributary,霍林河
+重,writing system,汉字
+杉松,parent taxon,冷杉属
+柚木,parent taxon,柚木属
+岷江冷杉,parent taxon,冷杉属
+臭冷杉,parent taxon,冷杉属
+巴山冷杉,taxon rank,种
+嫩江,continent,亚洲
+巴山冷杉,parent taxon,冷杉属
+干旱,facet of,气象学
+嫩江,country,中华人民共和国
+嫩江,located in the administrative territorial entity,黑龙江省

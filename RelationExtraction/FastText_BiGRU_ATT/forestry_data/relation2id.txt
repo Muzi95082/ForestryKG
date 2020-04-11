@@ -1,0 +1,20 @@
+category 0
+instance_of 1
+rank 2
+subclass_of 3
+description 4
+parent_taxon 5
+method 6
+country 7
+taxon_rank 8
+part_of 9
+different_from 10
+language of work or name 11
+found in taxon 12
+has_quality 13
+located_on_terrain_feature 14
+has_effect 15
+product_or_material_produced 16
+symptoms 17
+this_taxon_is_source of 10
+location 19

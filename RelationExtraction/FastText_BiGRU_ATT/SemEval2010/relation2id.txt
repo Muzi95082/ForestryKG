@@ -1,0 +1,10 @@
+Other 0 
+Cause-Effect  1 
+Instrument-Agency 2 
+Product-Producer 3 
+Content-Container 4 
+Entity-Origin 5 
+Entity-Destination 6 
+Component-Whole 7 
+Member-Collection 8 
+Message-Topic 9

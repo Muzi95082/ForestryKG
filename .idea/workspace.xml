@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71989670-ae16-4d29-8253-1e12aba81766" name="Default" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/cluster.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/csv2Json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/csv2Json1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/example.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/forestry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/forestry_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/hudong_pedia3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/lda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/ldaModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/lda_kmeans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/lda_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/lda_w2v.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/predict_labels1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/stop_words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/train.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/train3000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/try.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/vector_forestry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/中文停用词表.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/四川大学机器智能实验室停用词库.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EntityExtraction/百度停用词表.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/Dataset.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/adjust_parameter.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/classifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/create_vector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/cur_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/cur_list1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/entity.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/hudong_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/hudong_pedia3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/neo_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/predict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/predict1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/predict_double.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/predict_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/predict_labels2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/predlict_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/predlict_list1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/read_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/text_fasttext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/vec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/vector.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastText_Vec/vector_forestry-Copy1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/entity_nyt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/rel_nyt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/relation2id.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/test_sort.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/train_sort.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/triple_nyt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/vec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Forestry_Triples/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataAnalyse/hudong_pedia.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataAnalyse/hudong_pedia2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataAnalyse/staticResult1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataAnalyse/wikidata_relation2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataProcessing/new_node.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataProcessing/relationDataProcessing (1).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataProcessing/relationDataProcessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Forestry_Triples/wikidataProcessing/relationDataProcessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataProcessing/wikidata_relation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataProcessing/wikidata_relation2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forestry_Triples/wikidataProcessing/zh_wiki (1).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/SemEval2010/entity - 副本.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/SemEval2010/openNER.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/SemEval2010/vec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/SemEval2010/vecs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/SemEval2010/vector.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/allans.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/metadata.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/test_q&amp;a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/testall_pos1.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/testall_pos2.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/testall_word.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/testall_x.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/testall_y.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/train_pos1.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/train_pos2.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/train_q&amp;a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/train_word.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/train_x.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/train_y.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/data_s/vec.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/nyt_data/entity_nyt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/nyt_data/rel_nyt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/nyt_data/relation2id.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/nyt_data/result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/nyt_data/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/nyt_data/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/FastText_BiGRU_ATT/nyt_data/vec1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/data/readme.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelationExtraction/data/rel2id.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lybk_finally.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1RDRWziTqW1a4AcCHzysAypHRQh" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine (Python)</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FastText_Vec" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Experiment\Linux_Forestry_KnowledgeGraph\FastText_Vec" />
+      <recent name="D:\Experiment\Linux_Forestry_KnowledgeGraph\RelationExtraction\FastText_BiGRU_ATT\nyt_data" />
+      <recent name="D:\Experiment\Linux_Forestry_KnowledgeGraph\relationExtraction" />
+      <recent name="G:\00研究生\EX_begin\Linux-Agriculture_KnowledgeGraph\EntityExtraction" />
+      <recent name="G:\00研究生\EX_begin\Linux-Agriculture_KnowledgeGraph\KNN_predict" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Experiment\Linux_Forestry_KnowledgeGraph" />
+      <recent name="G:\00研究生\EX_begin\Linux-Agriculture_KnowledgeGraph\predict label" />
+      <recent name="G:\00研究生\EX_begin\Linux-Agriculture_KnowledgeGraph\EntityExtraction" />
+      <recent name="G:\00研究生\EX_begin\Linux-Agriculture_KnowledgeGraph\KNN_predict" />
+      <recent name="G:\00研究生\EX_begin\Linux-Agriculture_KnowledgeGraph\wikidataSpider\wikientities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.NER">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="NER" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Agriculture_KnowledgeGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/toolkit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/toolkit/NER.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exist_relation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Agriculture_KnowledgeGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relationExtraction" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/relationExtraction/data/dosomething.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Agriculture_KnowledgeGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relationExtraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/relationExtraction/data/preprocessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stackoverflow_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Agriculture_KnowledgeGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data processing/stackoverflow_spider.py" />
+      <option name="PARAMETERS" value="-o top-stackoverflow-questions.json" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="static" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Agriculture_KnowledgeGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relationExtraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/relationExtraction/static.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Agriculture_KnowledgeGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.stackoverflow_spider" />
+      <item itemvalue="Python.exist_relation" />
+      <item itemvalue="Python.preprocessing" />
+      <item itemvalue="Python.static" />
+      <item itemvalue="Python.NER" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NER" />
+        <item itemvalue="Python.exist_relation" />
+        <item itemvalue="Python.static" />
+        <item itemvalue="Python.preprocessing" />
+        <item itemvalue="Python.stackoverflow_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71989670-ae16-4d29-8253-1e12aba81766" name="Default" comment="" />
+      <created>1513672392494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513672392494</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1541149165343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541149165343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1546393959916</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546393959916</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1546395565835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546395565835</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585622186711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="505" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585622186711" />
+    <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586595754161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586595754161" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1585534188765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585534188765" />
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1586504692472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586504692472" />
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup" timestamp="1585561300616">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585561300616" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Forestry_Triples/TrainDataBaseOnWiki/parallel_extract_training.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
